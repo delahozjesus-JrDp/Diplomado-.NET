@@ -1,0 +1,14 @@
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\bin\Debug\net9.0\Ejercicio-02-POO.exe
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\bin\Debug\net9.0\Ejercicio-02-POO.deps.json
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\bin\Debug\net9.0\Ejercicio-02-POO.runtimeconfig.json
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\bin\Debug\net9.0\Ejercicio-02-POO.dll
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\bin\Debug\net9.0\Ejercicio-02-POO.pdb
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\obj\Debug\net9.0\Ejercicio-02-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\obj\Debug\net9.0\Ejercicio-02-POO.AssemblyInfoInputs.cache
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\obj\Debug\net9.0\Ejercicio-02-POO.AssemblyInfo.cs
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\obj\Debug\net9.0\Ejercicio-02-POO.csproj.CoreCompileInputs.cache
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\obj\Debug\net9.0\Ejercicio-02-POO.dll
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\obj\Debug\net9.0\refint\Ejercicio-02-POO.dll
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\obj\Debug\net9.0\Ejercicio-02-POO.pdb
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\obj\Debug\net9.0\Ejercicio-02-POO.genruntimeconfig.cache
+C:\Users\Jdela\Downloads\DiplomadoNet\Ejercicio-02-POO\obj\Debug\net9.0\ref\Ejercicio-02-POO.dll

@@ -1,0 +1,14 @@
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\bin\Debug\net9.0\ejercicio-01-luhn.exe
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\bin\Debug\net9.0\ejercicio-01-luhn.deps.json
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\bin\Debug\net9.0\ejercicio-01-luhn.runtimeconfig.json
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\bin\Debug\net9.0\ejercicio-01-luhn.dll
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\bin\Debug\net9.0\ejercicio-01-luhn.pdb
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\obj\Debug\net9.0\ejercicio-01-luhn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\obj\Debug\net9.0\ejercicio-01-luhn.AssemblyInfoInputs.cache
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\obj\Debug\net9.0\ejercicio-01-luhn.AssemblyInfo.cs
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\obj\Debug\net9.0\ejercicio-01-luhn.csproj.CoreCompileInputs.cache
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\obj\Debug\net9.0\ejercicio-01-luhn.dll
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\obj\Debug\net9.0\refint\ejercicio-01-luhn.dll
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\obj\Debug\net9.0\ejercicio-01-luhn.pdb
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\obj\Debug\net9.0\ejercicio-01-luhn.genruntimeconfig.cache
+C:\Users\Jdela\Downloads\DiplomadoNet\ejercicio-01-luhn\obj\Debug\net9.0\ref\ejercicio-01-luhn.dll

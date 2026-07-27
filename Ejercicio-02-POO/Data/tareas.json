@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "fresas",
+    "Descripcion": "fresas",
+    "Prioridad": 0,
+    "Categoria": {
+      "Nombre": "fresas",
+      "Color": "fresa",
+      "Descripcion": "fresa"
+    },
+    "Completada": true,
+    "FechaCreacion": "2026-07-26T20:10:20.2939277-05:00"
+  },
+  {
+    "Id": 2,
+    "Titulo": "soporte1",
+    "Descripcion": "realizar soporte nivel 1",
+    "Prioridad": 1,
+    "Categoria": {
+      "Nombre": "Nivel1",
+      "Color": "Blanco",
+      "Descripcion": "para las categorias bajas"
+    },
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T20:26:11.3375786-05:00"
+  },
+  {
+    "Id": 3,
+    "Titulo": "Soporte2",
+    "Descripcion": "Soporte nivel 2",
+    "Prioridad": 2,
+    "Categoria": {
+      "Nombre": "Nivel2",
+      "Color": "Azul",
+      "Descripcion": "Para nivel 2"
+    },
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T20:26:53.0220618-05:00"
+  }
+]
